@@ -2,5 +2,5 @@
 
 Página principal
   
-   Respositorio para el trabajo de FIS
-   Visual Novel
+   Respositorio para el trabajo de Programación estructurada
+   Project-Ajedrez
